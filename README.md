@@ -1,4 +1,4 @@
-Grupo:(Agronomia)-PSC mooca
+Grupo:(Agronomia)-PSC mooca:
 
 Guilherme Akiharu
 
@@ -12,7 +12,9 @@ Matheus
 
 Pedro
 
+------------------------------------------------
 https://github.com/guilhermeakiharu/ProjetoA3
+------------------------------------------------
 
 estrutura do projeto: Net Beans
 
