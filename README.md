@@ -4,11 +4,11 @@ Guilherme Akiharu
 
 Marco Antonio Espinoza
 
-Guilherme
+Guilherme Nanias
 
-Kaue
+Kaue Barbosa 
 
-Matheus
+Matheus Souto
 
 Pedro
 
