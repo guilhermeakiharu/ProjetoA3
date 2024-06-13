@@ -10,7 +10,10 @@ Kaue Barbosa
 
 Matheus Souto
 
-Pedro
+Pedro Cunha
+
+Maycon Douglas
+
 
 ------------------------------------------------
 
